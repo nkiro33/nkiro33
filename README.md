@@ -49,10 +49,10 @@ I'm happy to walk through any of it in detail — architecture, methodology, res
 
 ### Tools
 
-**Languages** Python · SQL · JavaScript · Dart
-**ML/AI** PyTorch · TensorFlow · Scikit-learn · OpenCV · Pandas · NumPy
-**Software** Django · Django REST Framework · React · Flutter
-**Other** Git · Linux · Docker
+- **Languages** — Python · SQL · JavaScript · Dart
+- **ML/AI** — PyTorch · TensorFlow · Scikit-learn · OpenCV · Pandas · NumPy
+- **Software** — Django · Django REST Framework · React · Flutter
+- **Other** — Git · Linux · Docker
 
 ---
 
