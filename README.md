@@ -21,7 +21,7 @@ The brief was a dataset-agnostic image classifier trained on 5–10 images per c
 #### Structural steel measurement from images
 *Efestos · May–Jul 2026*
 
-Sole engineer on a pipeline measuring the cross-sectional dimensions of steel beams from photographs. Segmentation to isolate components and locate measurement points, iPhone LiDAR and point cloud data to recover real-world scale, geometric computation to convert pixels into millimetres. No existing codebase — I owned requirements interpretation, approach selection, architecture, implementation, and validation.
+Sole engineer on a pipeline measuring the cross-sectional dimensions of steel beams from ordinary RGB photographs — no depth sensor. Segmentation to isolate the components and locate the measurement points, then a geometric approach to recover real-world scale and convert pixels into millimetres. No existing codebase — I owned requirements interpretation, approach selection, architecture, implementation, and validation.
 
 I designed the validation procedure myself and measured **~2 mm average error** against reference measurements.
 
@@ -42,6 +42,8 @@ Django and Django REST Framework backend, React web client, Flutter mobile app o
 ### A note on what's public here
 
 The four projects above are the work I'd want you to look at, and none of them can be published. The thesis and the Efestos pipeline are client-owned. The reservations platform is a commercial product I intend to launch. What remains in the repository list below is mostly older university coursework, and it isn't representative.
+
+I'm happy to walk through any of it in detail — architecture, methodology, results, and the parts that didn't work.
 
 ---
 
