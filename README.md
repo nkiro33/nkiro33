@@ -43,8 +43,6 @@ Django and Django REST Framework backend, React web client, Flutter mobile app o
 
 The four projects above are the work I'd want you to look at, and none of them can be published. The thesis and the Efestos pipeline are client-owned. The reservations platform is a commercial product I intend to launch. What remains in the repository list below is mostly older university coursework, and it isn't representative.
 
-I'm happy to walk through any of it in detail — architecture, methodology, results, and the parts that didn't work.
-
 ---
 
 ### Tools
